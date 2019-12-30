@@ -1,0 +1,23 @@
+{
+  "name": "template-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davschneider/template-exercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davschneider/template-exercises/issues"
+  },
+  "homepage": "https://github.com/davschneider/template-exercises#readme",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.3"
+  }
+}
